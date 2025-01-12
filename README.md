@@ -58,8 +58,8 @@ To set up the environment, follow these steps:
 
 Flow:
 
-- A user signs up or logs in, and a new user will be created.
+- A user signs up and a new user will be created.
 - On successful signup, they will be redirected to the dashboard where they will find all created webhooks.
 - They can subscribe, unsubscribe, create a new webhook, or log out.
-- Once they click on "create new webhook," they will be asked to provide a callback and source URL. On successful creation, it will appear in the dashboard.
+- Once they click on "create webhook," they will be asked to provide a callback and source URL. On successful creation, it will appear in the dashboard.
 - Once we simulate the event in the backend, they will receive a real-time pop-up about the webhook they subscribed to.
