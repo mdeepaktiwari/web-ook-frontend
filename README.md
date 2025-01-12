@@ -37,9 +37,12 @@ Follow these instructions to install and set up the project.
    ```
 
 3. Start the development server:
+
    ```sh
    npm run dev
    ```
+
+4. Open your browser and navigate to [http://localhost:5173/](http://localhost:5173/)
 
 ## Environment Setup
 
